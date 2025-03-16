@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fran-6
+- 👋 Hi, I’m @Fran-6 Mechanical Engineer specialzed in Logistics and cost modelling
 - 👀 I’m interested in Data Science
 - 🌱 I have been and am currently learning data science on line
 - 💞️ I’m looking to collaborate on reinforcement learning, geographic information systems, linguistics.
